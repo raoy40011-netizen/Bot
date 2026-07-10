@@ -59,3 +59,23 @@ Last Updated: 2026-07-10
 # Version History
 
 > Content will be defined by Creative Director.
+
+## Brand Language
+
+## Spatial Language
+
+## Material Palette
+
+## Color Palette
+
+## Lighting Rules
+
+## Robot Design Rules
+
+## AI Image Rules
+
+## PPT Style Guide
+
+## Board Style Guide
+
+## Naming Convention
